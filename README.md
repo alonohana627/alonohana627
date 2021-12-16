@@ -25,12 +25,10 @@ Former Grandmaster League of Legends player.
 - JavaFX
 - SQL
 ## Theoretical Knowledge
-- **Linear Data Structures**: Linked List, Stack, Queue, Priority Queue, Arrays.
-- **Tree Data Structures**: Binary Search Tree, R/B Tree, B-Tree, Heap.
-- Hash Table.
-- **Search Algorithms**: BFS, DFS, Linear Search, Binary Search.
-- **Sorting Algorithms**: Quick Sort, Merge Sort, Radix Sort, Counting Sort, Bucket Sort.
-- **Math**: Linear Algebra and District Math.
+- **Data Structures**
+- **Algorithms**
+- **Complexity**
+- **Math**
 ## Misc.
 - MVC
 - Linux
