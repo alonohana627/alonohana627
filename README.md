@@ -21,9 +21,12 @@ Former Grandmaster League of Legends player.
 - Python
 - HTML, CSS, JavaScript
 ## Technologies
-- Vue
 - JavaFX
+- NodeJS+Express
 - SQL
+- MongoDB
+- Vue
+- React
 ## Theoretical Knowledge
 - **Data Structures**
 - **Algorithms**
