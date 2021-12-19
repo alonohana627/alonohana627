@@ -36,3 +36,4 @@ Former Grandmaster League of Legends player.
 - Git
 ## Projects
 - Email Client - JavaFX Email Client
+- Generic C Data Structures - C is hard, generic with C is even harder.
