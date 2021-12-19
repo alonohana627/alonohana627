@@ -30,10 +30,11 @@ Former Grandmaster League of Legends player.
 - **Complexity**
 - **Math**
 ## Misc.
+- OOP
 - MVC
 - Linux
 - Shell & PowerShell
-- Git
+- Git (Novie)
 ## Projects
 - Email Client - JavaFX Email Client
 - Generic C Data Structures - C is hard, generic with C is even harder.
