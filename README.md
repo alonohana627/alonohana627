@@ -28,10 +28,10 @@ Former Grandmaster League of Legends player.
 - Vue
 - React
 ## Theoretical Knowledge
-- **Data Structures**
-- **Algorithms**
-- **Complexity**
-- **Math**
+- Data Structures
+- Algorithms
+- Complexity
+- Math - Linear Algebra, Calculus and Discrete Math.
 ## Misc.
 - OOP
 - MVC
