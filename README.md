@@ -19,25 +19,20 @@ Former Grandmaster League of Legends player.
 - C++
 - Golang
 - Python
+- Dart
 - HTML, CSS, JavaScript
 ## Technologies
-- JavaFX
+- Flutter
 - NodeJS+Express
+- uWebSocket.js
 - SQL
 - MongoDB
-- Vue
-- React
 ## Theoretical Knowledge
 - Data Structures
 - Algorithms
 - Complexity
-- Math - Linear Algebra, Calculus and Discrete Math.
 ## Misc.
 - OOP
-- MVC
 - Linux
 - Shell & PowerShell
-- Git (Novie)
-## Projects
-- Email Client - JavaFX Email Client
-- Generic C Data Structures - C is hard, generic with C is even harder.
+- Git
