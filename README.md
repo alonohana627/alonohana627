@@ -20,17 +20,18 @@ Former Grandmaster League of Legends player.
 - Golang
 - Python
 - Dart
+- Rust
 - HTML, CSS, JavaScript
 ## Technologies
 - Flutter
-- NodeJS+Express
+- NodeJS
 - uWebSocket.js
 - SQL
 - MongoDB
 ## Theoretical Knowledge
 - Data Structures
 - Algorithms
-- Complexity
+- Complexity Analysis
 ## Misc.
 - OOP
 - Linux
