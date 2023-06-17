@@ -14,20 +14,22 @@ CS student from Israel in the great awesome amazing Open University of Israel.
 24 Years old.
 Former Grandmaster League of Legends player.
 ## Programing Languages
-- Java
 - C
 - C++
 - Golang
 - Python
 - Dart
 - Rust
-- HTML, CSS, JavaScript
+- JavaScript
+- Typescript
 ## Technologies
 - Flutter
 - NodeJS
 - uWebSocket.js
 - SQL
 - MongoDB
+- Docker
+- GCP
 ## Theoretical Knowledge
 - Data Structures
 - Algorithms
