@@ -12,7 +12,7 @@
 Alon Ohana.
 CS student from Israel in the great awesome amazing Open University of Israel.
 27 Years old.
-Former Challenger League of Legends player.
+Challenger League of Legends player.
 ## Programing Languages
 - C
 - C++
